@@ -8,5 +8,5 @@ class Shoe
     @brand
   end
 
-  attr_writer :color
+  attr_accessor :color
 end
