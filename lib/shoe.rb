@@ -7,4 +7,6 @@ class Shoe
   def brand
     @brand
   end
+
+  attr_reader :color
 end
